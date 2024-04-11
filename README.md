@@ -12,14 +12,16 @@ Valmis töö(d) tuleb laadida zone'i ja kood githubi/gitlabi vms.
 -   Väljastada info (võimalusel koos pildiga)
 -   Näiteks: https://openweathermap.org/price
 
-## 2. Google Maps API
-
+## 2. Maps API
+ Vabalt valitud kaardi rakenduse liidestus.
 -   Luua tabel markers (id, name, latitude, longitude, description, added, edited)
 -   CRUD markerile. (name, latitude, longitude, description)
--   Luua google map
--   Lisada markerid map-ile
+-   Luua kaardi vaade
+-   Lisada markerid kaardile-ile
 -   Click mapil võimaldab salvestada markerit
--   Tutorial: https://developers.google.com/maps/documentation/javascript/tutorial
+-   Juhendid:
+  -   https://developers.google.com/maps/documentation/javascript/tutorial
+  -   https://radar.com/documentation/maps/maps
 
 ## 3. Laravel - projekti loomine Uudised. Kommentaaride CRUD
 
